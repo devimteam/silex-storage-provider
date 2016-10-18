@@ -1,0 +1,25 @@
+{
+  "type": "library",
+  "name": "devimteam/silex-storage-service-provider",
+  "description" : "Silex Storage Service Provider",
+  "keywords": [],
+  "license": "",
+  "authors": [],
+
+  "autoload": {
+    "psr-4": {
+      "Devim\\Provider\\StorageServiceProvider\\" : "src"
+    }
+  },
+
+  "minimum-stability": "stable",
+  "require" : {
+    "silex/silex": "~2.0.3-DEV",
+    "vlobchuk/isolate-console-provider": "dev-master",
+    "symfony/finder": "~3.0"
+  },
+
+  "require-dev": {
+    "codeception/codeception": "^2.2"
+  }
+}
