@@ -1,7 +1,7 @@
 {
   "type": "library",
-  "name": "devimteam/silex-storage-service-provider",
-  "description" : "Silex Storage Service Provider",
+  "name": "devimteam/silex-storage-provider",
+  "description" : "Silex Storage Provider",
   "keywords": [],
   "license": "",
   "authors": [],
