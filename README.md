@@ -9,7 +9,7 @@ Adds storage service provider for your silex application
 #### Install via composer
 
 ```
-$ composer require devimteam/silex-storage-service-provider
+$ composer require devimteam/silex-storage-provider
 ```
 
 ## Use-cases
